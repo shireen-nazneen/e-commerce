@@ -1,0 +1,12 @@
+.auto-wrapper{
+    position: relative;
+}
+.image-avtar{
+    height: 30px;
+    object-fit: contain;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
